@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the associated manuscript when available."
+title: "Research code for mortality prediction in critically ill patients with heart failure and acute kidney injury"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: https://github.com/gizemakts/hf-aki-icu-mortality-prediction
+authors:
+  - family-names: "Aktaş"
+    given-names: "Gizem"
+    orcid: "https://orcid.org/0009-0007-3490-3442"
+    affiliation: "Yalova University, Yalova, Türkiye"
+  - family-names: "Gök"
+    given-names: "Murat"
+    orcid: "https://orcid.org/0000-0003-2261-9288"
+    affiliation: "Yalova University, Yalova, Türkiye"
+keywords:
+  - heart failure
+  - acute kidney injury
+  - clinical prediction
+  - MIMIC-IV
+  - eICU-CRD
